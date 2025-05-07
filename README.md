@@ -219,6 +219,8 @@ ___
 
 ✨ 🎉 🚀
 
+> You can check all the emojis available at the present moment here: [Emoji-Cheat-Sheet repository by ikatyang](https://github.com/ikatyang/emoji-cheat-sheet)
+
 ## 3.4 🧭 TOC (Table of Contents)[🔝](#menu)
 
 ```Markdown
