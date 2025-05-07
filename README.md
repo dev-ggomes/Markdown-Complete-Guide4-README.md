@@ -29,13 +29,13 @@
   - [📐Structure and Layout](#structure-and-layout)
   - [🔍Advanced](#advanced)
   - [🧩Renderers and Compatibility](#renderers-and-compatibility)
-  - [⛔Más Práticas a Evitar](#mas-praticas-a-evitar)
+  - [⛔Bad habits to avoid](#bad-habits-to-avoid)
 
 - [How to Contribute](#how-to-contribute)
 
 <h2 align='center'>🧱 1. Fundamentals</h2>
 
-## 1.1 Titles (`#`)
+## 1.1 Titles (`#`)[🔝](#menu)
 
 ```Markdown
 # Título 1
@@ -53,7 +53,7 @@
 ##### Título 5
 ###### Título 6
 
-## 1.2 ✍️ Emphasis
+## 1.2 ✍️ Emphasis[🔝](#menu)
 
 ```Markdown
 *italic* ou _italic_  
@@ -67,7 +67,7 @@
 ***bold + italic***  
 ~~erased~~
 
-## 1.3 🗒️ Lists
+## 1.3 🗒️ Lists[🔝](#menu)
 ### Unordered
 ```Markdown
 - Item
@@ -101,21 +101,21 @@
 
 > NOTE: The "x" must be put only in the tasks you've already done
 
-## 1.4 🔗 Links
+## 1.4 🔗 Links[🔝](#menu)
 ```Markdown
 [Google](https://google.com)
 ```
 
 [Google](https://google.com)
 
-## 1.5 🖼️ Images
+## 1.5 🖼️ Images[🔝](#menu)
 ```Markdown
 ![Alt text](https://via.placeholder.com/100)
 ```
 
 ![Alt text](https://via.placeholder.com/100)
 
-## 1.6 💻 Code
+## 1.6 💻 Code[🔝](#menu)
 
 ### Inline
 ```Markdown
@@ -152,7 +152,7 @@ def ola():
 
 <h2 align='center'>📐 2. Structure and Layout</h2>
 
-## 2.1 📊 Tables
+## 2.1 📊 Tables[🔝](#menu)
 ```Markdown
 | Name  | Age | Role     |
 |-------|------:|-----------|
@@ -168,7 +168,7 @@ def ola():
 > IMPORTANT
 >> `:---:` -> aligned to the center <br> `---:` -> aligned to the right <br> `:---` -> left aligned
 
-## 2.2 ➖ Horizontal line
+## 2.2 ➖ Horizontal line[🔝](#menu)
 > All 3 do the same thing
 ```Markdown
 ___
@@ -180,7 +180,7 @@ ___
 ---
 ***
 
-## 2.3 💬 Quotes
+## 2.3 💬 Quotes[🔝](#menu)
 ```Markdown
 > This is a quote.
 >> Subquote
@@ -191,14 +191,14 @@ ___
 
 <h2 align='center'>🔍 3. Advanced</h2>
 
-## 3.1 ❗ Character Escaping
+## 3.1 ❗ Character Escaping[🔝](#menu)
 ```Markdown
 \*not italic\*
 ```
 
 \*not italic\*
 
-## 3.2 📁 Collapsible (GitHub only)
+## 3.2 📁 Collapsible (GitHub only)[🔝](#menu)
 ```HTML
 <details>
   <summary>Show</summary>
@@ -211,7 +211,7 @@ ___
   Hidden text
 </details>
 
-## 3.3 😄 Emojis
+## 3.3 😄 Emojis[🔝](#menu)
 
 ```Markdown
 :sparkles: :tada: :rocket:
@@ -219,7 +219,7 @@ ___
 
 ✨ 🎉 🚀
 
-## 3.4 🧭 TOC (Table of Contents)
+## 3.4 🧭 TOC (Table of Contents)[🔝](#menu)
 
 ```Markdown
 - [Fundaments](#1-fundaments)
@@ -229,12 +229,12 @@ ___
 - [Fundaments](#1-fundaments)
 - [Structure](#2-structure-and-layout)
 
-## 3.5 🕵️ Comments (not visible)
+## 3.5 🕵️ Comments (not visible)[🔝](#menu)
 ```Markdown
 <!-- this is a comment -->
 ```
 
-## 3.6 ➗ Math formulas
+## 3.6 ➗ Math formulas[🔝](#menu)
 
 ```Markdown
 $E = mc^2$
@@ -275,7 +275,7 @@ $$
 
 ---
 
-## ✏ How to contribute
+## ✏ How to contribute[🔝](#menu)
 
 <p align='center'>
   
