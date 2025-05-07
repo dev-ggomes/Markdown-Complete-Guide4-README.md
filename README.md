@@ -19,7 +19,7 @@
 1. How to do it (with Markdown)
 2. Preview
 
-## Menu
+## Menu (not remissive yet)
 
 - [Welcome](#menu)
 - [How it will be shown](#how-it-would-be-shown)
