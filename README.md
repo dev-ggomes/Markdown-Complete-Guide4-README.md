@@ -38,20 +38,20 @@
 ## 1.1 Titles (`#`)[🔝](#menu)
 
 ```Markdown
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
+# Title 1
+## Title 2
+### Title 3
+#### Title 4
+##### Title 5
+###### Title 6
 ```
 
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
+# Title 1
+## Title 2
+### Title 3
+#### Title 4
+##### Title 5
+###### Title 6
 
 ## 1.2 ✍️ Emphasis[🔝](#menu)
 
@@ -86,8 +86,8 @@
    1. Subitem
 ```
 
-1. Um  
-2. Dois  
+1. Item  
+2. Item 2  
    1. Subitem
   
 ### Checkboxes
@@ -127,27 +127,27 @@ Use `npm install`
 ### Code block
 <pre>
 ```
-bloco de código
+block of code here
 ```
 </pre>
 
 How it will be shown:
 ```
-bloco de código
+block of code here
 ```
 
 ### With language (Python for example)
 <pre>
 ```Python
-def ola():
-    print("Olá!")
+def hello():
+    print("Hello!")
 ```
 </pre>
 
 How it will be shown:
 ```Python
-def ola():
-    print("Olá!")
+def hello():
+    print("Hello!")
 ```
 
 <h2 align='center'>📐 2. Structure and Layout</h2>
