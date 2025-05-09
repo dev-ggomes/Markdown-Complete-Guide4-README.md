@@ -281,7 +281,7 @@ $$
 
 <p align='center'>
   
-  If you want to contribute to this repository you can `fork it`
-  >⚠️Forks may be used only to improve this repository to the community. Disrespectful or meaning forks will be reported 
+  If you want to contribute to this repository you can `fork it` or open an `issue`!
+  >⚠️**Forks** and **issues** should only be used to improve this repository for the community. Disrespectful forks and issues will be reported. 
 
 </p>
