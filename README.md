@@ -1,18 +1,19 @@
 <h1 align='center'>
-  Welcome! Markdown Complete Guide 4 README.md
+  :rocket: Welcome! Markdown Complete Guide 4 README.md
 </h1>
 
 <p align='center'>
-  Start improving your README's with this guide.
+  :octocat: Start improving your README's with this guide.
 </p>
 
+<!-- |||||||||||||||||||| SPONSORS & STARS |||||||||||||||||||| -->
 <p align='center'>
   <a href="https://github.com/sponsors/GomesGuilhermePT07"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
   &nbsp;
   <a href="#"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/GomesGuilhermePT07/Markdown-Complete-Guide4-README.md?style=for-the-badge" /></a>
 </p>
 
-<br />
+<br>
 
 ## How this repository will be shown?
 
