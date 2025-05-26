@@ -140,14 +140,30 @@ block of code here
 <pre>
 ```Python
 def hello():
-    print("Hello!")
+    print("Hello World!")
 ```
 </pre>
 
 How it will be shown:
 ```Python
 def hello():
-    print("Hello!")
+    print("Hello World!")
+```
+
+### Before and after (changes made)
+<pre>
+```diff
+  - def hello():
+  + def hi():
+      print("Hello World!")
+```
+</pre>
+
+How it will be shown:
+```diff
+- def hello()
++ def hi():
+  print("Hello World!")
 ```
 
 <h2 align='center'>📐 2. Structure and Layout</h2>
@@ -282,6 +298,6 @@ $$
 <p align='center'>
   
   If you want to contribute to this repository you can `fork it` or open an `issue`!
-  >⚠️**Forks** and **issues** should only be used to improve this repository for the community. Disrespectful forks and issues will be reported. 
+  > ⚠️**Forks** and **issues** should only be used to improve this repository for the community. Disrespectful forks and issues will be reported. 
 
 </p>
