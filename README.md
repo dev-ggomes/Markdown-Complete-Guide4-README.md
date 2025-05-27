@@ -123,15 +123,19 @@
 
 ## 1.6 💻 Code[🔝](#menu)
 
-### Inline
+### Inline 
+> [!NOTE]\
+> Inside `` ` ``
 ```Markdown
 Use `npm install`
 ```
 
-How it will be shown:
+How it will be shown:\
 Use `npm install`
 
 ### Code block
+> [!NOTE]\
+> Inside `` ``` ``
 <pre>
 ```
 block of code here
