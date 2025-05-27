@@ -8,9 +8,9 @@
 
 <!-- |||||||||||||||||||| SPONSORS & STARS |||||||||||||||||||| -->
 <p align='center'>
-  <a href="https://github.com/sponsors/GomesGuilhermePT07"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
+  <a href="https://github.com/sponsors/dev-ggomes"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
   &nbsp;
-  <a href="#"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/GomesGuilhermePT07/Markdown-Complete-Guide4-README.md?style=for-the-badge" /></a>
+  <a href="#"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dev-ggomes/Markdown-Complete-Guide4-README.md?style=for-the-badge" /></a>
 </p>
 
 <br>
