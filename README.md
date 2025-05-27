@@ -325,7 +325,8 @@ $$
 
 <p align='center'>
   
-  If you want to contribute to this repository you can `fork it` or open an `issue`!
-  > ⚠️**Forks** and **issues** should only be used to improve this repository for the community. Disrespectful forks and issues will be reported. 
+  If you want to contribute to this repository you can `fork it` and make a `pull request` or open an `issue`!
+  > [!WARNING]\
+  > **Forks**, **pull requests** and **issues** should only be used to improve this repository for the community. Disrespectful forks and issues will be reported. 
 
 </p>
