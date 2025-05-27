@@ -128,6 +128,7 @@
 Use `npm install`
 ```
 
+How it will be shown:
 Use `npm install`
 
 ### Code block
@@ -191,6 +192,7 @@ How it will be shown:
 > `:---:` -> aligned to the center <br> `---:` -> aligned to the right <br> `:---` -> left aligned
 
 ## 2.2 ➖ Horizontal line[🔝](#menu)
+> [!NOTE]\
 > All 3 do the same thing
 ```Markdown
 ___
