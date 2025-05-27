@@ -104,7 +104,8 @@
 - [x] Done
 - [ ] To do
 
-> NOTE: The "x" must be put only in the tasks you've already done
+> [!NOTE]\
+> The `x` must be put only in the tasks you've already done
 
 ## 1.4 🔗 Links[🔝](#menu)
 ```Markdown
@@ -186,8 +187,8 @@ How it will be shown:
 | Name 1  | 24    | Backend developer |
 | Name 2 | 32    | Fullstack developer   |
 
-> IMPORTANT
->> `:---:` -> aligned to the center <br> `---:` -> aligned to the right <br> `:---` -> left aligned
+> [!IMPORTANT]\
+> `:---:` -> aligned to the center <br> `---:` -> aligned to the right <br> `:---` -> left aligned
 
 ## 2.2 ➖ Horizontal line[🔝](#menu)
 > All 3 do the same thing
@@ -209,6 +210,27 @@ ___
 
 > This is a quote.
 >> Subquote
+
+## 2.4 💬 Different types of Quotes[🔝](#menu)
+```Markdown
+> [!IMPORTANT]\
+> This is a important quote
+
+> [!WARNING]\
+> This is a quote that warns the person
+
+> [!NOTE]\
+> This is just a quote that expresses a note
+```
+
+> [!IMPORTANT]\
+> This is a important quote
+
+> [!WARNING]\
+> This is a quote that warns the person
+
+> [!NOTE]\
+> This is just a quote that expresses a note
 
 <h2 align='center'>🔍 3. Advanced</h2>
 
@@ -240,6 +262,7 @@ ___
 
 ✨ 🎉 🚀
 
+> [!NOTE]\
 > You can check all the emojis available at the present moment here: [Emoji-Cheat-Sheet repository by ikatyang](https://github.com/ikatyang/emoji-cheat-sheet)
 
 ## 3.4 🧭 TOC (Table of Contents)[🔝](#menu)
