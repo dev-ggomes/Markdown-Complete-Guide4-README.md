@@ -333,6 +333,6 @@ $$
   
   If you want to contribute to this repository you can `fork it` and make a `pull request` or open an `issue`!
   > [!WARNING]\
-  > **Forks**, **pull requests** and **issues** should only be used to improve this repository for the community. Disrespectful forks and issues will be reported. 
+  > **Forks**, **pull requests**, and **issues** are intended solely to enhance this repository for the benefit of the community. Any inappropriate or disrespectful activity will be reported accordingly.
 
 </p>
